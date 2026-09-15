@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="ProgrammingChallenge" format=3 uid="uid://34jccoed14la"]
+
+[ext_resource type="Script" uid="uid://bq5mvh3r27dbj" path="res://scripts/activities/ProgrammingChallenge.gd" id="1_abptk"]
+
+[resource]
+script = ExtResource("1_abptk")
+challenge_name = "Comprobar una condición"
+concept = "Condicionales"
+difficulty = 2
+description = "Crea una condición que compruebe si score es mayor o igual a 100."
+expected_code = "if score >= 100:"
+metadata/_custom_type_script = "uid://bq5mvh3r27dbj"

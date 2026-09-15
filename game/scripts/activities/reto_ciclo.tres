@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="ProgrammingChallenge" format=3 uid="uid://d2q3k8unxboop"]
+
+[ext_resource type="Script" uid="uid://bq5mvh3r27dbj" path="res://scripts/activities/ProgrammingChallenge.gd" id="1_gordr"]
+
+[resource]
+script = ExtResource("1_gordr")
+challenge_name = "Crear un ciclo"
+concept = "Ciclos"
+difficulty = 3
+description = "Crea un ciclo que recorra los números del 1 al 5."
+expected_code = "for i in range(1, 6):"
+metadata/_custom_type_script = "uid://bq5mvh3r27dbj"
