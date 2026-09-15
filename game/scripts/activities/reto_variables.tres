@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="ProgrammingChallenge" format=3 uid="uid://bxlhx1xbagpoc"]
+
+[ext_resource type="Script" uid="uid://bq5mvh3r27dbj" path="res://scripts/activities/ProgrammingChallenge.gd" id="1_4okgk"]
+
+[resource]
+script = ExtResource("1_4okgk")
+challenge_name = "Crear una variable"
+concept = "Variables"
+description = "Crea una variable llamada score y asígnale el valor 100."
+expected_code = "var score = 100"
+metadata/_custom_type_script = "uid://bq5mvh3r27dbj"
